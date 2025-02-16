@@ -18,12 +18,6 @@ Ce projet explore les concepts fondamentaux de la virtualisation en utilisant **
 
 
 
-## 📸 Captures d’écran
-
-| 📌 Interface ESXi | 🏗️ Création d'une VM |
-|------------------|------------------|
-| ![ESXi Interface](images/esxi-dashboard.png) | ![Création VM](images/create-vm.png) |
-
 ## 🔒 Sécurité et Optimisation
 
 - **Isolation des VMs** pour éviter les attaques croisées
