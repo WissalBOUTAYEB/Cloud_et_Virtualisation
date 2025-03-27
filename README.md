@@ -1,5 +1,11 @@
 🖥️ Virtualization with VMware ESXi
 
+![GitHub repo size](https://img.shields.io/github/repo-size/votre-utilisateur/votre-repo)
+![GitHub contributors](https://img.shields.io/github/contributors/votre-utilisateur/votre-repo)
+![GitHub last commit](https://img.shields.io/github/last-commit/votre-utilisateur/votre-repo)
+![GitHub stars](https://img.shields.io/github/stars/votre-utilisateur/votre-repo?style=social)
+
+
 
 📌 Overview
 This project explores core virtualization concepts using VMware ESXi, covering:
